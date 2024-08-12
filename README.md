@@ -1,2 +1,2 @@
 # share
-learning git hub 
+learning git hub.com
